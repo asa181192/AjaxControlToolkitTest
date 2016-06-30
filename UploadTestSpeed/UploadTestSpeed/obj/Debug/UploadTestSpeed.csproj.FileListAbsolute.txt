@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Visual Studio 2013\Projects\UploadTestSpeed\UploadTestSpeed\bin\UploadTestSpeed.dll.config
-C:\Users\User\Documents\Visual Studio 2013\Projects\UploadTestSpeed\UploadTestSpeed\bin\UploadTestSpeed.dll
-C:\Users\User\Documents\Visual Studio 2013\Projects\UploadTestSpeed\UploadTestSpeed\bin\UploadTestSpeed.pdb
-C:\Users\User\Documents\Visual Studio 2013\Projects\UploadTestSpeed\UploadTestSpeed\bin\AjaxControlToolkit.dll
-C:\Users\User\Documents\Visual Studio 2013\Projects\UploadTestSpeed\UploadTestSpeed\obj\Debug\UploadTestSpeed.dll
-C:\Users\User\Documents\Visual Studio 2013\Projects\UploadTestSpeed\UploadTestSpeed\obj\Debug\UploadTestSpeed.pdb
-C:\Users\User\Documents\Visual Studio 2013\Projects\UploadTestSpeed\UploadTestSpeed\obj\Debug\UploadTestSpeed.csprojResolveAssemblyReference.cache
