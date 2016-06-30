@@ -1,0 +1,17 @@
+﻿body {
+}
+
+.WebFormsCotrols
+{
+   
+    width:60%;
+    border-style:solid;
+    border-color:gray;
+    margin:auto;
+}
+
+#UploadCenter
+{
+    text-align:center;
+   
+}
